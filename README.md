@@ -7,12 +7,16 @@
 <br/>
 - 🌱 I’m interested in : TSN Simulation , In-vehicle time-sensitive networking , DDS-TSN
 <br/>
-- ⚡ My plan：
+- :clipboard: My plan：
 <ol>
         <li>DDS-TSN: Deploying DDS-TSN in FreeRTOS or AUTOSAR</li>
-        <li>Inet Showcases CN: Translate and explain the Inet Showcases documentation <src="https://inet-showcases-cn.readthedocs.io/zh-cn/latest/"></li>
+        <li><a href="https://inet-showcases-cn.readthedocs.io/zh-cn/latest/">INET Showcases CN</a>: Translate and explain the INET Showcases documentation</li>
 </ol>
-      
+- ⚡ Link：
+<ol>
+        <li><a href="https://space.bilibili.com/35942145">Bilibili</a></li>
+        <li><a href="https://deepsea52418.github.io/">Blog</a></li>
+</ol>
       
 </div>
 
@@ -27,7 +31,6 @@
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=deepsea52418&theme=github-compact&hide_border=true&area=true" />
 <br/>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=deepsea52418&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepsea52418&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 </p>
 
