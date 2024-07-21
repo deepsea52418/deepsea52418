@@ -12,11 +12,7 @@
         <li>DDS-TSN: Deploying DDS-TSN in FreeRTOS or AUTOSAR</li>
         <li><a href="https://inet-showcases-cn.readthedocs.io/zh-cn/latest/">INET Showcases CN</a>: Translate and explain the INET Showcases documentation</li>
 </ol>
-- ⚡ Link：
-<ol>
-        <li><a href="https://space.bilibili.com/35942145">Bilibili</a></li>
-        <li><a href="https://deepsea52418.github.io/">Blog</a></li>
-</ol>
+
       
 </div>
 
